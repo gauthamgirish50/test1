@@ -1,4 +1,5 @@
 main() {
-	biggest2();
-	factorial();
+        biggest2();
+        factorial();
 }
+
